@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="G`slfl2e2b]3*XPH?1V0" x="0" y="0"/><block type="device_forever" id="X]x(tRc]-A$JFYkevpd#" x="205" y="0"/><block type="melody_on_event" id="2[b.u#t8z:_emcsi`]}l" x="-26" y="100"><field name="value">MusicEvent.MelodyNotePlayed</field></block></xml>
